@@ -6,7 +6,7 @@
 			{text: 'Make the Loader only show up while data is not yet imported. If data is imported, show the Tasks', status: false},
 			{text: 'Make sure Tasks (or anything else you will be importing) is faded in into the page', status: false},
 			{text: 'Import Title component. Figure out what does it needs and "feed" that component with the necessary props', status: false},
-			{text: 'Make a new componet called People. Pass all the data as a prop inside of it.', status: false},
+			{text: 'Make a new component called People. Pass all the data as a prop inside of it. Import it to app.svelte', status: false},
 			{text: 'Make a card for every single person in the database (hint: you can use the Card component already created)', status: false},
 			{text: 'Make cards show up side by side with css (or simply wrap all your cards with a div with "class="grid grid-cols-6 gap-2")', status: false},
 			{text: 'Extra: Can you make every single card slowly enter the page?")', status: false},
