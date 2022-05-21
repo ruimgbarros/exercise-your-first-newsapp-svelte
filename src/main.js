@@ -1,6 +1,6 @@
-import App from './App.svelte';
+import App_dev from './App_dev.svelte';
 
-const app = new App({
+const app = new App_dev({
   target: document.body,
 });
 
